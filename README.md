@@ -1,8 +1,7 @@
 # Ahmed Abdelwadoud Elkhalifa
 
 Kampala, Uganda  
-Email: [ahmed@elkhalifa.dev](mailto:ahmed@elkhalifa.dev)  
-TEL: +256785023061  
+Email: [ahmed@elkhalifa.dev](mailto:ahmed@elkhalifa.dev)
 GitHub: [github.com/ahmedwadod](https://github.com/ahmedwadod)  
 Website: [elkhalifa.dev](https://elkhalifa.dev)  
 
